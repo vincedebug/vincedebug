@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vincedebug
+- 👋 Hi, I’m vince
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT
-- 📫 How to reach me 
+
 
 <!---
 vincedebug/vincedebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
