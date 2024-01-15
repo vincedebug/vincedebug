@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vince 
+- 👋 Hi, I’m Vince Ferreras Ermino
 - 💻 Computer Science Student
 
 
