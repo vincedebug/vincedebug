@@ -1,5 +1,5 @@
-- 👋 Hi, I’m vince
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT
+- 👋 Hi, I’m Vince 
+- 💻 Computer Science Student
 
 
 <!---
